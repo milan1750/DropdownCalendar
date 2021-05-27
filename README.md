@@ -1,6 +1,7 @@
 ### Dropdown Calendar - 2021
 <p>Dropdown Calendar is a Jquery Library for selecting dates on calendar in dropdow/Scroll basic not like Flatpicker, you might be familiar with.</p>
-<p>Accepted Params and Default Values</p>
+# Accepted Params and Default Values
+
 <table class="table table-striped table-bordered">
   <thead>
       <tr>
